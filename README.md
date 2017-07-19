@@ -14,7 +14,7 @@ Made with pain during ClarionLive!
     ! 
     ! The source in this APP is based on an example by Jens Matschke,
     ! published on Par2.com of Steve Parker, 
-    ! now available on Arnor Balvinssons website under
+    ! now available on Arnor Baldvinssons website under
     ! https://www.icetips.com/showarticle.php?articleid=1539
     ! 
     ! Last modification:
